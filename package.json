@@ -1,0 +1,15 @@
+{
+  " name " : " webserver1 " ,
+  " version " : " 1.0.0 " ,
+  " description " : " " ,
+  " main " : " app.js " ,
+  " skripty " : {
+    " test " : " echo \" Chyba: není zadán žádný test \ " && exit 1 "
+  },
+  " klíčová slova " : [],
+  " autor " : " " ,
+  " licence " : " ISC " ,
+  " devDependencies " : {
+    " dateformat " : " ^ 3.0.3 "
+  }
+}
